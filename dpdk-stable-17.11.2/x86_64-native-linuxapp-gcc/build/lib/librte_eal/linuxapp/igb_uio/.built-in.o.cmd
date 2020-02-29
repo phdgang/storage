@@ -1,0 +1,1 @@
+cmd_/root/openness/dpdk-stable-17.11.2/x86_64-native-linuxapp-gcc/build/lib/librte_eal/linuxapp/igb_uio/built-in.o :=  rm -f /root/openness/dpdk-stable-17.11.2/x86_64-native-linuxapp-gcc/build/lib/librte_eal/linuxapp/igb_uio/built-in.o; ar rcsD /root/openness/dpdk-stable-17.11.2/x86_64-native-linuxapp-gcc/build/lib/librte_eal/linuxapp/igb_uio/built-in.o
